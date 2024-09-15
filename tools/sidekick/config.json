@@ -11,6 +11,12 @@
       "passConfig": true,
       "passReferrer": true,
       "paletteRect": "top: 50px; bottom: 10px; right: 10px; left: auto; width:400px; height: calc(100vh - 60px)"
+    },
+    {
+      "id": "google-assist",
+      "title": "Google Assist",
+      "environments": ["edit"],
+      "url":"https://www.google.com/search?q=edge+delivery+services+tutorial"
     }
   ]
 }
