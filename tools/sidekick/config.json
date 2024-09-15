@@ -5,7 +5,7 @@
       "id": "asset-library",
       "title": "AEM Assets Library",
       "environments": ["edit", "perview"],
-      "url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html?rail=false",
+      "url": "HTTP://localhost:4502/damadmin",
       "isPalette": true,
       "includePaths": ["**.docx**"],
       "passConfig": true,
