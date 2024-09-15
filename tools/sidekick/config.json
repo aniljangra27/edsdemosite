@@ -5,7 +5,7 @@
       "id": "asset-library",
       "title": "AEM Assets Library",
       "environments": ["edit", "perview"],
-      "url": "HTTP://localhost:4502/damadmin",
+      "url": "https://experience.adobe.com/?repoId=author-p104103-e1433304.adobeaemcloud.com#/@akqaemeaptrsd/assets/browse/content/dam",
       "isPalette": true,
       "includePaths": ["**.docx**"],
       "passConfig": true,
